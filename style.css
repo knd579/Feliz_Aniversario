@@ -1,0 +1,18 @@
+.bodyBackground
+{
+    background-image:url('hOye.gif');
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+#myCanvas
+{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+border-color: darkviolet;  
+}
+#textILV{
+color: rgb(0, 0, 0);
+}
+
